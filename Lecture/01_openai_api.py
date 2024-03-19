@@ -4,10 +4,8 @@
 # 2. 카드 등록(VISA, MASTER) + 5.5달러(보유)
 
 
-
-
 # 라이브러리 관리
-# 1.VENV 
+# 1.VENV (가상환경)
 # 2.Anaconda
 
 # python -m venv ./venv
