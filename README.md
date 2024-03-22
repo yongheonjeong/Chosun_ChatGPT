@@ -12,3 +12,7 @@
  7. 가상환경 생성(venv) : 가상환경 구축 참조
  8. vscode에서 python: select interpreter 설정(Ctrl+Shift+P) -> venv
  9. pip install langchain
+
+
+
+ # CTRL + K + F   JSON FILE 
